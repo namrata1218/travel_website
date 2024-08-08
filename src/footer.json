@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "title":"OUR AGENCY",
+        "option1":"Insurance",
+        "option2":"Agency",
+        "option3":"Toursim",
+        "option4":"Payment",
+        "option5":"Services"
+
+    },
+    {
+        "id":2,
+        "title":"PARTNERS",
+        "option1":"Bookings",
+        "option2":"Trivago",
+        "option3":"Rentcars",
+        "option4":"Hostelworld",
+        "option5":"Traveladvisor"
+
+    },
+    {
+        "id":3,
+        "title":"LAST MINUTE",
+        "option1":"London",
+        "option2":"California",
+        "option3":"Indonesia",
+        "option4":"Europe",
+        "option5":"Oceania"
+
+    },
+    {
+        "id":4,
+        "title":"OUR AGENCY",
+        "option1":"Insurance",
+        "option2":"Agency",
+        "option3":"Toursim",
+        "option4":"Payment",
+        "option5":"Services"
+
+    }
+]

@@ -1,0 +1,54 @@
+[
+   {
+    "id":1,
+    "imgSrc":"../Assets/borabora.jpg",
+    "destTitle":"Bora Bora",
+    "location":"New Zealand",
+    "grade":"Cultural Relax",
+    "fees":"$700",
+    "description":"The epitome of romance."
+   },
+   {
+    "id":2,
+    "imgSrc":"../Assets/dubai.jpg",
+    "destTitle":"Bora Bora",
+    "location":"New Zealand",
+    "grade":"Cultural Relax",
+    "fees":"$700",
+    "description":"The epitome of romance."
+   },
+   {
+   "id":3,
+    "imgSrc":"../Assets/jaipur.jpg",
+    "destTitle":"Bora Bora",
+    "location":"New Zealand",
+    "grade":"Cultural Relax",
+    "fees":"$700",
+    "description":"The epitome of romance."},
+    {
+        "id":4,
+         "imgSrc":"../Assets/mumbai.jpg",
+         "destTitle":"Bora Bora",
+         "location":"New Zealand",
+         "grade":"Cultural Relax",
+         "fees":"$700",
+         "description":"The epitome of romance."},
+         {
+            "id":5,
+             "imgSrc":"../Assets/newdelhi.jpg",
+             "destTitle":"Bora Bora",
+             "location":"New Zealand",
+             "grade":"Cultural Relax",
+             "fees":"$700",
+             "description":"The epitome of romance."},
+             {
+                "id":6,
+                 "imgSrc":"../Assets/udaipur.jpg",
+                 "destTitle":"Bora Bora",
+                 "location":"New Zealand",
+                 "grade":"Cultural Relax",
+                 "fees":"$700",
+                 "description":"The epitome of romance."}
+
+
+]
